@@ -3,8 +3,8 @@ This project aims to predict bike rental demand using historical data and machin
 
 📊 Dataset Description
 The dataset includes the following key features:
-Date: Daily timestamp.
-Season: Categorical variable (spring, summer, fall, winter).
+#Date: Daily timestamp.
+#Season: Categorical variable (spring, summer, fall, winter).
 Weather: Weather situation (clear, cloudy, light rain, etc.).
 Temperature: Normalized temperature in Celsius.
 Humidity: Normalized humidity level.
