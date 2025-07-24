@@ -30,7 +30,7 @@ The performance of each model will be compared using metrics such as Mean Absolu
 Clone this repository:
 
 bash
-git clone https://github.com/yourusername/BikeDemandPrediction.git
+git clone https://github.com/PrajwalThorat9007/BikeDemandPrediction.git
 cd BikeDemandPrediction
 
 Install required dependencies:
